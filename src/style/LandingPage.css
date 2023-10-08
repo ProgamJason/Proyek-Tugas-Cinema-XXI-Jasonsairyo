@@ -1,0 +1,66 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/IMAGES/4/abstract-background.jpg");
+    background-size: cover;
+}
+
+.intro {
+    display:flex;
+    justify-content:end;
+    align-items: center;
+    height:400px;
+}
+
+.jason:hover {
+   cursor: pointer;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 2;
+    text-shadow:2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/IMAGES/4/B.jpg");
+    background-size: cover;
+}
+
+.Adventure {
+    height:auto;
+    background: url("../assets/IMAGES/4/bioskop.jpg");
+    background-size:cover;
+}
+
+.Movie {
+    height:auto;
+    background: url("../assets/IMAGES/4/bioskop.jpg");
+    background-size:cover;
+}
+
+.movieImage {
+     height: auto;
+     margin:5px;
+     padding:5px;
+     background-color:  black;
+
+}
+
+.Nav {
+    letter-spacing: 2px;
+    text-shadow: 1px 1px white;
+    box-shadow: 2px 1px 1px black;
+    line-height: 9px;
+    text-emphasis-color:var(--color-black-primary);
+}
+
+.Nav:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 7px 5px rgba(0, 0, 0, 0.48);
+    -webkit-box-shadow: 1px 1px 7px 5px rgba(0, 0, 0, 0.31);
+    -moz-box-shadowZ: 1px 1px 7px 5px rgba(0, 0, 0, 0.31);
+}
+
+
