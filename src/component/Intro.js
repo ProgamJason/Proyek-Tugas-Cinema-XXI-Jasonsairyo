@@ -10,7 +10,7 @@ const Intro = () =>
             <div className="title">FILMS COMING SOON</div>
             <div className="title"> SEGERA DATANG </div>
             <div className="introButton nt-4 text-center">
-            <Button variant="dark" href="#Lihat semua List">Lihat semua List</Button>
+            <Button variant="dark" href="#Lihat semua List" className="Semua">Lihat semua List</Button>
             </div>
             </Col>
           </Row>

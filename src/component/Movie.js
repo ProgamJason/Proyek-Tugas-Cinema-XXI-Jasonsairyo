@@ -19,11 +19,11 @@ const Movie = () => {
       <Image src={BangkukosongImage} alt="SSawx Image" className="image" />
       <div className="bg-dark">
         <div className="p-2 m-2">
-        <Card.Title className="text-center">The Nun 2</Card.Title>
+        <Card.Title className="text-center">Bangku Kosong</Card.Title>
         <Card.Text className="text-left">
          <Button variant="primary" className="align-items-center align-items-center border" >R 13+</Button>
         </Card.Text>
-        <Card.Text className="text-center" >The Nun 2</Card.Text>
+        <Card.Text className="text-center" >Bangku kosong</Card.Text>
         </div>
         </div>
     </Card>
@@ -33,11 +33,11 @@ const Movie = () => {
       <Image src={DIAmbangkematianImage} alt="SSawx Image" className="image" />
       <div className="bg-dark">
         <div className="p-2 m-2">
-        <Card.Title className="text-center">The Pilot</Card.Title>
+        <Card.Title className="text-center">Diambang </Card.Title>
         <Card.Text className="text-left">
            <Button variant="primary" className="border">R 13+</Button>
         </Card.Text>
-        <Card.Text className="text-center">The Pilot</Card.Text>
+        <Card.Text className="text-center">Diambang kematian</Card.Text>
         </div>
         </div>
     </Card>
@@ -47,11 +47,11 @@ const Movie = () => {
       <Image src={CintaperrrtamaImage} alt="SSawx Image" className="image" />
       <div className="bg-dark">
         <div className="p-2 m-2">
-        <Card.Title className="text-center">The Expend 4bles</Card.Title>
+        <Card.Title className="text-center">Cinta pertama</Card.Title>
         <Card.Text className="text-left">
           <Button variant="warning" className="border">D 17+</Button>
         </Card.Text>
-        <Card.Text className="text-center">The Expend 4bles</Card.Text>
+        <Card.Text className="text-center">Cinta pertama</Card.Text>
         </div>
         </div>
     </Card>
@@ -75,11 +75,11 @@ const Movie = () => {
       <Image src={GranTurismoImage} alt="SSawx Image" className="image" />
       <div className="bg-dark">
         <div className="p-2 m-2">
-        <Card.Title className="text-center">MISSION RANI</Card.Title>
+        <Card.Title className="text-center">Gran Turismo</Card.Title>
         <Card.Text className="text-left">
           <Button variant="primary" className="border">R 13+</Button>
         </Card.Text>
-        <Card.Text className="text-center">MISSION RANIGANJ</Card.Text>
+        <Card.Text className="text-center">Gran Turismo</Card.Text>
         </div>
         </div>
     </Card>

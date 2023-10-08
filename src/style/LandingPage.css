@@ -34,6 +34,12 @@
     background-size:cover;
 }
 
+.Semua:hover {
+     cursor:grab;
+     box-shadow: 1px 1px 7px 5px rgba(0, 0, 0, 0.48);
+    -webkit-box-shadow: 1px 1px 7px 5px rgba(0, 0, 0, 0.31);
+    -moz-box-shadowZ: 1px 1px 7px 5px rgba(0, 0, 0, 0.31);
+}
 .Movie {
     height:auto;
     background: url("../assets/IMAGES/4/bioskop.jpg");

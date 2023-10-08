@@ -5,6 +5,9 @@ import Intro from './component/Intro';
 import Trending from './component/Trending';
 import Adventure from './component/Adventure';
 import Movie from './component/Movie';
+import Icon from './component/icon';
+
+
 function App() {
   return (
      <div> 
@@ -29,6 +32,12 @@ function App() {
 
 <div className="Movie">
     <Movie />
+</div>
+
+{/* end movie section */}
+
+<div className="Icon">
+  <Icon />
 </div>
 </div>
   );
